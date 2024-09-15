@@ -8,6 +8,7 @@ import (
 	"github.com/jc-lab/ping-watcher/checker"
 	"log"
 	"os"
+	"os/signal"
 	"strings"
 	"syscall"
 	"time"
